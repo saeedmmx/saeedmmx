@@ -23,11 +23,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saeedmmx&show_icons=true&locale=en" alt="saeedmmx" /></p>
 
-<img
-  src="https://github.com/<username>/<repository-name>/blob/<branch-name>/images/stat.svg"
-  alt="Alternative Text"
-/>
-Example:
+
+  <h3 align="left">WakaTime Activity:</h3>
+
 <img
   src="https://github.com/avinal/avinal/blob/main/images/stat.svg"
   alt="Avinal WakaTime Activity"
