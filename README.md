@@ -30,3 +30,6 @@
   src="https://github.com/avinal/avinal/blob/main/images/stat.svg"
   alt="Avinal WakaTime Activity"
 />
+
+
+[![wakatime](https://wakatime.com/badge/user/6e5e3225-638b-45cc-8dc8-40b392094d17.svg)](https://wakatime.com/@6e5e3225-638b-45cc-8dc8-40b392094d17)
